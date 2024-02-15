@@ -1,0 +1,13 @@
+User,Date,Column,Column_Hours,Beam,Beam_Hours,Floor,Floor_Hours,Wall,Wall_Hours,Stair,Stair_Hours,Trade
+User_ A,4-Nov-2023,550,16,0,0,0,0,0,0,0,0,Structure
+User_ B,4-Nov-2023,195,16,0,0,0,0,0,0,0,0,Structure
+User_ C,4-Nov-2023,985,16,0,0,0,0,0,0,0,0,Structure
+User_ D,4-Nov-2023,75,8,240,8,0,0,0,0,0,0,Structure
+User_ E,4-Nov-2023,250,8,197,8,0,0,0,0,0,0,Structure
+User_ F,4-Nov-2023,220,8,426,8,0,0,0,0,0,0,Structure
+User_ G,4-Nov-2023,100,8,264,8,0,0,0,0,0,0,Structure
+User_ H,4-Nov-2023,51,8,186,8,0,0,0,0,0,0,Structure
+User_ I,4-Nov-2023,120,8,300,8,0,0,0,0,0,0,Structure
+User_ J,4-Nov-2023,300,8,501,8,0,0,0,0,0,0,Structure
+User_ K,4-Nov-2023,111,8,267,8,0,0,0,0,0,0,Structure
+

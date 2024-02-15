@@ -1,0 +1,12 @@
+User,Date,Dry_Wall,Dry_Wall_Hours,Room,Room_Hours,Floor_Finish,Floor_Finish_Hours,Ceiling,Ceiling_Hours,Door,Door_Hours,Trade
+User_ A1,3-Nov-2023,200,8,0,0,0,0,0,0,0,0,Structure
+User_ B1,3-Nov-2023,50,8,0,0,0,0,0,0,0,0,Structure
+User_ C1,3-Nov-2023,500,8,0,0,0,0,0,0,0,0,Structure
+User_ D1,3-Nov-2023,75,8,0,0,0,0,0,0,0,0,Structure
+User_ E1,3-Nov-2023,250,8,0,0,0,0,0,0,0,0,Structure
+User_ F1,3-Nov-2023,220,8,0,0,0,0,0,0,0,0,Structure
+User_ G1,3-Nov-2023,100,8,0,0,0,0,0,0,0,0,Structure
+User_ H1,3-Nov-2023,51,8,0,0,0,0,0,0,0,0,Structure
+User_ I1,3-Nov-2023,120,8,0,0,0,0,0,0,0,0,Structure
+User_ J1,3-Nov-2023,300,8,0,0,0,0,0,0,0,0,Structure
+User_ K1,3-Nov-2023,111,8,0,0,0,0,0,0,0,0,Structure

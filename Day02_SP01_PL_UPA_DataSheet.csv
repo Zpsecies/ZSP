@@ -1,0 +1,12 @@
+User,Date,Pipe,Pipe_Hours,Manhole,Manhole_Hours,Fitting,Fitting_Hours,Equipment,Equipment_Hours,Fixture,Fixture_Hours,Trade
+User_ A5,4-Nov-2023,550,16,0,0,0,0,0,0,0,0,Structure
+User_ B5,4-Nov-2023,195,16,0,0,0,0,0,0,0,0,Structure
+User_ C5,4-Nov-2023,985,16,0,0,0,0,0,0,0,0,Structure
+User_ D5,4-Nov-2023,75,8,240,8,0,0,0,0,0,0,Structure
+User_ E5,4-Nov-2023,250,8,197,8,0,0,0,0,0,0,Structure
+User_ F5,4-Nov-2023,220,8,426,8,0,0,0,0,0,0,Structure
+User_ G5,4-Nov-2023,100,8,264,8,0,0,0,0,0,0,Structure
+User_ H5,4-Nov-2023,51,8,186,8,0,0,0,0,0,0,Structure
+User_ I5,4-Nov-2023,120,8,300,8,0,0,0,0,0,0,Structure
+User_ J5,4-Nov-2023,300,8,501,8,0,0,0,0,0,0,Structure
+User_ K5,4-Nov-2023,111,8,267,8,0,0,0,0,0,0,Structure
