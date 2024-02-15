@@ -20,8 +20,8 @@ st.subheader(":building_construction: SP01_ID_OFFICE_2024")
 cl1,cl2 = st.columns((2))
 
 
-with cl2:
-    st.image("/Users/apple/Desktop/untitled folder/fotor-ai-20240207162856.jpg", width=400, caption="SP[]_Tower03")
+# with cl2:
+#     # st.image("/Users/apple/Desktop/untitled folder/fotor-ai-20240207162856.jpg", width=400, caption="SP[]_Tower03")
      
 with cl1: 
     st.markdown(''':wrench: **Scope Of Work :** <p style='color: #00FFFF;'>   <em> Wall, Floor, Room, Coloumn,Beam,Door,Window,Stair</p>''', unsafe_allow_html=True) 
